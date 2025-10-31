@@ -1,0 +1,7 @@
+table, tr, th, td {
+    border: darkblue 3px solid;
+}
+
+body {
+    background-color: brown;
+}
